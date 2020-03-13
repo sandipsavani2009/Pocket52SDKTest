@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('p52SDK_alpha_0204101.aar'))
